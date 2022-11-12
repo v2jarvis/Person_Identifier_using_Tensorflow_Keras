@@ -11,3 +11,5 @@ by v2jarvis
 
 # Note- 
    ## Please put file path carefully ( labels.txt, keras_model.h5 ) 
+   ## Those file which I have given are highly processed data that is only for testing purposes
+   ## For personal use you have to create your own modal from:- https://teachablemachine.withgoogle.com/ this website and exported TensorFlow formate
