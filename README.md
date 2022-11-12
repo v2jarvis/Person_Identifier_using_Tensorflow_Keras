@@ -8,3 +8,5 @@ TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backwa
 Keep up-to-date with release announcements and security updates by subscribing to announce@tensorflow.org. See all the mailing lists.
 
 by v2jarvis
+
+# Note- ## Please put file path carefully ( labels.txt, keras_model.h5 ) 
