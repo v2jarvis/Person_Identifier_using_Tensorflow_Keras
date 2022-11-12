@@ -9,4 +9,5 @@ Keep up-to-date with release announcements and security updates by subscribing t
 
 by v2jarvis
 
-# Note- ## Please put file path carefully ( labels.txt, keras_model.h5 ) 
+# Note- 
+   ## Please put file path carefully ( labels.txt, keras_model.h5 ) 
